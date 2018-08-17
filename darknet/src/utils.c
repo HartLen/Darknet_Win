@@ -282,11 +282,11 @@ void file_error(char *s)
     exit(0);
 }
 
-list *split_str(char *s, char delim)
+linked_list *split_str(char *s, char delim)
 {
     size_t i;
     size_t len = strlen(s);
-    list *l = make_list();
+	linked_list *l = make_list();
     list_insert(l, s);
     for(i = 0; i < len; ++i){
         if(s[i] == delim){
@@ -425,9 +425,9 @@ char *copy_string(char *s)
     return copy;
 }
 
-list *parse_csv_line(char *line)
+linked_list *parse_csv_line(char *line)
 {
-    list *l = make_list();
+	linked_list *l = make_list();
     char *c, *p;
     int in = 0;
     for(c = line, p = line; *c != '\0'; ++c){
