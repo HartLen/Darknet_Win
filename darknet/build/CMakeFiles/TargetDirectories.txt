@@ -1,0 +1,3 @@
+D:/ykma/sur/contrib/darknet/build/CMakeFiles/darknet.dir
+D:/ykma/sur/contrib/darknet/build/CMakeFiles/ALL_BUILD.dir
+D:/ykma/sur/contrib/darknet/build/CMakeFiles/ZERO_CHECK.dir

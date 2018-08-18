@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\ykma\sur\contrib\darknet\src\activation_layer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ykma\sur\contrib\darknet\src\activations.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ykma\sur\contrib\darknet\src\avgpool_layer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ykma\sur\contrib\darknet\src\batchnorm_layer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ykma\sur\contrib\darknet\src\blas.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ykma\sur\contrib\darknet\src\box.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ykma\sur\contrib\darknet\src\col2im.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ykma\sur\contrib\darknet\src\connected_layer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ykma\sur\contrib\darknet\src\convolutional_layer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ykma\sur\contrib\darknet\src\cost_layer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ykma\sur\contrib\darknet\src\crnn_layer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ykma\sur\contrib\darknet\src\crop_layer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ykma\sur\contrib\darknet\src\cuda.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ykma\sur\contrib\darknet\src\data.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ykma\sur\contrib\darknet\src\deconvolutional_layer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ykma\sur\contrib\darknet\src\detection_layer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ykma\sur\contrib\darknet\src\dropout_layer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ykma\sur\contrib\darknet\src\gemm.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ykma\sur\contrib\darknet\src\gru_layer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ykma\sur\contrib\darknet\src\im2col.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ykma\sur\contrib\darknet\src\image.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ykma\sur\contrib\darknet\src\layer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ykma\sur\contrib\darknet\src\list.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ykma\sur\contrib\darknet\src\local_layer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ykma\sur\contrib\darknet\src\lstm_layer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ykma\sur\contrib\darknet\src\mat2im_layer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ykma\sur\contrib\darknet\src\matrix.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ykma\sur\contrib\darknet\src\maxpool_layer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ykma\sur\contrib\darknet\src\network.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ykma\sur\contrib\darknet\src\normalization_layer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ykma\sur\contrib\darknet\src\option_list.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ykma\sur\contrib\darknet\src\parser.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ykma\sur\contrib\darknet\src\region_layer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ykma\sur\contrib\darknet\src\reorg_layer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ykma\sur\contrib\darknet\src\rnn_layer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ykma\sur\contrib\darknet\src\route_layer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ykma\sur\contrib\darknet\src\shortcut_layer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ykma\sur\contrib\darknet\src\softmax_layer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ykma\sur\contrib\darknet\src\tree.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ykma\sur\contrib\darknet\src\utils.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\ykma\sur\contrib\darknet\CMakeLists.txt" />
+    <CustomBuild Include="D:\ykma\sur\contrib\darknet\src\activation_kernels.cu" />
+    <CustomBuild Include="D:\ykma\sur\contrib\darknet\src\avgpool_layer_kernels.cu" />
+    <CustomBuild Include="D:\ykma\sur\contrib\darknet\src\blas_kernels.cu" />
+    <CustomBuild Include="D:\ykma\sur\contrib\darknet\src\col2im_kernels.cu" />
+    <CustomBuild Include="D:\ykma\sur\contrib\darknet\src\convolutional_kernels.cu" />
+    <CustomBuild Include="D:\ykma\sur\contrib\darknet\src\crop_layer_kernels.cu" />
+    <CustomBuild Include="D:\ykma\sur\contrib\darknet\src\deconvolutional_kernels.cu" />
+    <CustomBuild Include="D:\ykma\sur\contrib\darknet\src\dropout_layer_kernels.cu" />
+    <CustomBuild Include="D:\ykma\sur\contrib\darknet\src\im2col_kernels.cu" />
+    <CustomBuild Include="D:\ykma\sur\contrib\darknet\src\mat2im_layer_kernels.cu" />
+    <CustomBuild Include="D:\ykma\sur\contrib\darknet\src\maxpool_layer_kernels.cu" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="D:\ykma\sur\contrib\darknet\build\CMakeFiles\cuda_compile_1.dir\src\$(Configuration)\cuda_compile_1_generated_activation_kernels.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="D:\ykma\sur\contrib\darknet\build\CMakeFiles\cuda_compile_1.dir\src\$(Configuration)\cuda_compile_1_generated_avgpool_layer_kernels.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="D:\ykma\sur\contrib\darknet\build\CMakeFiles\cuda_compile_1.dir\src\$(Configuration)\cuda_compile_1_generated_blas_kernels.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="D:\ykma\sur\contrib\darknet\build\CMakeFiles\cuda_compile_1.dir\src\$(Configuration)\cuda_compile_1_generated_col2im_kernels.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="D:\ykma\sur\contrib\darknet\build\CMakeFiles\cuda_compile_1.dir\src\$(Configuration)\cuda_compile_1_generated_convolutional_kernels.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="D:\ykma\sur\contrib\darknet\build\CMakeFiles\cuda_compile_1.dir\src\$(Configuration)\cuda_compile_1_generated_crop_layer_kernels.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="D:\ykma\sur\contrib\darknet\build\CMakeFiles\cuda_compile_1.dir\src\$(Configuration)\cuda_compile_1_generated_deconvolutional_kernels.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="D:\ykma\sur\contrib\darknet\build\CMakeFiles\cuda_compile_1.dir\src\$(Configuration)\cuda_compile_1_generated_dropout_layer_kernels.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="D:\ykma\sur\contrib\darknet\build\CMakeFiles\cuda_compile_1.dir\src\$(Configuration)\cuda_compile_1_generated_im2col_kernels.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="D:\ykma\sur\contrib\darknet\build\CMakeFiles\cuda_compile_1.dir\src\$(Configuration)\cuda_compile_1_generated_mat2im_layer_kernels.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="D:\ykma\sur\contrib\darknet\build\CMakeFiles\cuda_compile_1.dir\src\$(Configuration)\cuda_compile_1_generated_maxpool_layer_kernels.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{907CCCF5-6550-3F04-98BA-483BE338D96C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object Files">
+      <UniqueIdentifier>{45ABD883-329E-335E-AB53-FF68952A8C22}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
